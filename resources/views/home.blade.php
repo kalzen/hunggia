@@ -404,7 +404,7 @@
         <div class="col-lg-6 m-auto text-center">
            <div class="heading6 _mt-50">
               <span class="sub-title">CLIENTS & PARTNERS</span>
-              <h2 class="text-anime-style-3">Sự hài lòng là thành công của chúng tôi</h2>
+              <h2 class="text-anime-style-2">Sự hài lòng của bạn là thành công của chúng tôi</h2>
            </div>
         </div>
      </div>
@@ -572,7 +572,7 @@
         <div class="col-lg-6 m-auto text-center">
            <div class="heading6 _mt-50">
               <span class="sub-title">NEWS & EVENTS</span>
-              <h2 class="text-anime-style-3">Hoạt động nổi bật của Hưng Gia Group</h2>
+              <h2 class="text-anime-style-2">Hoạt động nổi bật của Hưng Gia Group</h2>
            </div>
         </div>
      </div>
